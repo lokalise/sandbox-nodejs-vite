@@ -1,7 +1,4 @@
 {
-  "server": {
-    "allowedHosts": ".lokalise.cloud"
-  },
   "compilerOptions": {
     "target": "es2023",
     "module": "esnext",
